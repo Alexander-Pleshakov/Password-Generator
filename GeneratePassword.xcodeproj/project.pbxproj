@@ -16,6 +16,7 @@
 		163CA22A2B02C09A004401DF /* GeneratePasswordTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163CA2292B02C09A004401DF /* GeneratePasswordTests.swift */; };
 		163CA2342B02C09A004401DF /* GeneratePasswordUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163CA2332B02C09A004401DF /* GeneratePasswordUITests.swift */; };
 		163CA2362B02C09A004401DF /* GeneratePasswordUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163CA2352B02C09A004401DF /* GeneratePasswordUITestsLaunchTests.swift */; };
+		163CA2432B02C9DA004401DF /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163CA2422B02C9DA004401DF /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		163CA22F2B02C09A004401DF /* GeneratePasswordUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GeneratePasswordUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		163CA2332B02C09A004401DF /* GeneratePasswordUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneratePasswordUITests.swift; sourceTree = "<group>"; };
 		163CA2352B02C09A004401DF /* GeneratePasswordUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneratePasswordUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		163CA2422B02C9DA004401DF /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				163CA2142B02C098004401DF /* SceneDelegate.swift */,
 				163CA2162B02C098004401DF /* ViewController.swift */,
 				163CA2182B02C098004401DF /* Main.storyboard */,
+				163CA2422B02C9DA004401DF /* User.swift */,
 				163CA21B2B02C09A004401DF /* Assets.xcassets */,
 				163CA21D2B02C09A004401DF /* LaunchScreen.storyboard */,
 				163CA2202B02C09A004401DF /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				163CA2432B02C9DA004401DF /* User.swift in Sources */,
 				163CA2172B02C098004401DF /* ViewController.swift in Sources */,
 				163CA2132B02C098004401DF /* AppDelegate.swift in Sources */,
 				163CA2152B02C098004401DF /* SceneDelegate.swift in Sources */,
